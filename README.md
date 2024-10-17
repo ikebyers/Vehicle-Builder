@@ -35,3 +35,6 @@ N/A
 If you have any questions, please contact me at:
 - GitHub: [ikebyers](https://github.com/ikebyers)
 - Email: ikebyersmgmt@gmail.com
+
+## Walkthrough Video
+https://drive.google.com/file/d/191ahvFRpwpuxRlX0HJGtcUoB0zj3hOea/view?usp=sharing
