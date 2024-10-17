@@ -1,2 +1,37 @@
-# Vehicle-Builder
-A vehicle building app that allows you to create new, edit, and use existing vehicles and perform actions with them in the command line.
+# Vehicle Builder 2.0
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation-instructions)
+- [Usage](#usage)
+- [License](#license)
+- [Credits](#credits)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Description
+This application allows you to create a vehicle via terminal prompts that you can then use to perform the step-by-step actions associated with driving! Speed up, slow down, and depending on the vehicle you choose--you can even tow  another existing vehicle or do a wheelie!
+
+## Installation Instructions
+```bash
+Download github repository --> https://github.com/ikebyers/Vehicle-Builder
+```
+
+## Usage
+Open the parent directory within terminal, then enter "npm run build", locate to the 'dist' directory, then run "node index.js" to access the Vehicle Builder application. Follow the prompts to select an existing vehicle or create a new one. Once completed, you'll be able to select from several action performance items to use your vehicle.
+
+## License 
+MIT
+
+## Credits
+Ike Byers
+
+## Tests
+```bash
+N/A
+```
+
+## Questions
+If you have any questions, please contact me at:
+- GitHub: [ikebyers](https://github.com/ikebyers)
+- Email: ikebyersmgmt@gmail.com
