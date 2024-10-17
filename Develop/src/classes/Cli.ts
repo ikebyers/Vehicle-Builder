@@ -401,8 +401,9 @@ class Cli {
                 return;
               } else {
                 console.log("Only trucks can tow.");
-                this.performActions();
               }
+              this.performActions();
+              return;
             }
           }
         // add statements to perform the wheelie action only if the selected vehicle is a motorbike          
@@ -411,11 +412,11 @@ class Cli {
             if (this.vehicles[i].vin === this.selectedVehicleVin) {
               if (this.vehicles[i] instanceof Motorbike) {
                 (this.vehicles[i] as Motorbike).wheelie();
-                return;
+                this.performActions;
               } else {
-                console.log(`Only motorbikes are able to wheelie!`)
-                this.performActions();
-              }
+                console.log(`Only motorbikes are able to wheelie!`);
+              } 
+              this.performActions;
             }
           }
         } else if (answers.action === 'Select or create another vehicle') {

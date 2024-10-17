@@ -18,7 +18,7 @@ Download github repository --> https://github.com/ikebyers/Vehicle-Builder
 ```
 
 ## Usage
-Open the parent directory within terminal, then enter "npm run build", locate to the 'dist' directory, then run "node index.js" to access the Vehicle Builder application. Follow the prompts to select an existing vehicle or create a new one. Once completed, you'll be able to select from several action performance items to use your vehicle.
+Open the parent directory within terminal, then enter "npm run build" to install dependencies. Then locate to the 'develop' directory and run "npm start" to access the Vehicle Builder application. Follow the prompts to select an existing vehicle or create a new one. Once completed, you'll be able to select from several action performance items to use your vehicle, select another vehicle, or exit application.
 
 ## License 
 MIT
